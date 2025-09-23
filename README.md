@@ -1,6 +1,6 @@
 ## Hi there 👋
+I am a student at LAB University of Applied Sciences. My name is Nataly Rattul and I am a beginner in coding, and I have previously studied small HTML, CSS, and JavaScript courses.
 
-<!--
 **natrat-ctrl/natrat-ctrl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
