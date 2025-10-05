@@ -6,10 +6,13 @@ I'm passionate about **Cybersecurity**, **Automation**, and **Data Analytics**.
 I enjoy working with diverse technologies and exploring new tools to solve real-world problems.
 
 ## 🧠 Skills & Learning
-Currently learning:
+
+### 🚀 Currently Learning
 - Programming Languages
 - Machine Learning
 - Embedded Systems
+ - ☁️ Cloud Platforms: Azure, AWS  
+- 📊 Microsoft Power Platform (Power Apps, Power BI, Power Automate)
   
 ### 💻 Programming Languages & Tools
 - 🐘 SQL  
@@ -19,13 +22,8 @@ Currently learning:
 - ⚙️ JavaScript (jQuery, React)  
 - 🐍 Python  
 
-### 🚀 Currently Learning
-- ☁️ Cloud Platforms: Azure, AWS  
-- 📊 Microsoft Power Platform (Power Apps, Power BI, Power Automate)  
-
 ### 🖥️ Operating Systems
 - Linux 🐧
 - Windows 🧟
-  
-**natrat-ctrl/natrat-ctrl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 ---
